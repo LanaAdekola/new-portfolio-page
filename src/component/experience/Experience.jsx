@@ -71,77 +71,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' /> 
               <div>
-                <h4>Product Management</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div className="experience__frontend">
-          <h3>Content Editor</h3>
-          <div className="experience__content">
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Script Writing</h4>
+                <h4>Taiwind Css</h4>
                 <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Technical writing</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>ScreenWriting</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Blog Writing Services</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Video Editing</h4>
-                <small className='text-light'>Professional</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Project Management</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Social media engagement services</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Critical Thinking</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon' /> 
-              <div>
-                <h4>Product Marketing Services</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>

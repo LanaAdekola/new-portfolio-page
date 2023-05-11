@@ -11,33 +11,33 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>Content Editing</h3>
+            <h3>Frontend development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Contributes new ideas for future publications</p>
+              <p>Optimizing the user experience.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Researching, proofreading, and publishing both traditional and online media.</p>
+              <p>Using HTML, CSS, JavaScript and React js to bring concepts to life.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Fact-check articles and ensure the use of proper spelling, grammar, and syntax in outputs..</p>
+              <p>Developing and maintaining the user interface.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Ensures the team’s tasks are completed in a timely manner</p>
+              <p>Implementing design on mobile websites.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Verifies information and research</p>
+              <p>Managing software workflow.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Proofreads and edits the work of content writers</p>
+              <p>Fixing bugs and testing for usability.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>

@@ -5,8 +5,8 @@ import IMG2 from '../../assets/portfolio3.jpg'
 import IMG3 from '../../assets/portfolio2.jpg'
 import IMG4 from '../../assets/portfolio5.png'
 import IMG5 from '../../assets/portfolio6.jpg'
-import IMG6 from '../../assets/Hotpot.png'
-import IMG7 from '../../assets/vv.png'
+import IMG6 from '../../assets/memes.jpg'
+import IMG7 from '../../assets/tenzies.jpg'
 
 
 
@@ -15,16 +15,16 @@ const data = [
   {
     id: 9,
     image: IMG6,
-    title: 'Scriptwriting for a Movie',
-    github: 'https://www.youtube.com/watch?v=6fzfY-LU_OE&t=1309s',
-    demo: 'https://www.youtube.com/watch?v=6fzfY-LU_OE&t=1309s'
+    title: 'Meme Generator',
+    github: 'https://github.com/LanaAdekola/memes-generator/tree/master/memes-generator',
+    demo: 'https://resilient-nasturtium-130c50.netlify.app/'
   },
   {
     id: 0,
     image: IMG7,
-    title: 'Movie Screenformatting',
-    Youtube: 'https://www.youtube.com/watch?v=KjCAHLrRfuI&t=73s',
-    demo: 'https://www.youtube.com/watch?v=KjCAHLrRfuI&t=73s'
+    title: 'Tenzies Game',
+    github: 'https://github.com/LanaAdekola/tenzies/tree/master/tenzies',
+    demo: 'https://melodic-toffee-f55734.netlify.app/'
   },
   {
     id: 1,
