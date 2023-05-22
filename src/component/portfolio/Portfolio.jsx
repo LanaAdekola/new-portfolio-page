@@ -7,6 +7,10 @@ import IMG4 from '../../assets/portfolio5.png'
 import IMG5 from '../../assets/portfolio6.jpg'
 import IMG6 from '../../assets/memes.jpg'
 import IMG7 from '../../assets/tenzies.jpg'
+import IMG8 from '../../assets/img6.jpg'
+import IMG9 from '../../assets/img9.png'
+
+
 
 
 
@@ -60,6 +64,20 @@ const data = [
     title: 'E-commerce',
     github: '#',
     demo: '#'
+  },
+  {
+    id: 6,
+    image: IMG8,
+    title: 'Retink Media Website',
+    github: 'https://github.com/LanaAdekola/retink-app',
+    demo: 'https://dapper-wisp-e4b142.netlify.app/'
+  },
+  {
+    id: 7,
+    image: IMG9,
+    title: 'Movie App',
+    github: 'https://github.com/LanaAdekola/ade-proj',
+    demo: 'https://euphonious-moonbeam-e96905.netlify.app/'
   }
 ]
 
